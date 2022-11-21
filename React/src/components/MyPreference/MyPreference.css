@@ -1,0 +1,28 @@
+
+.select {
+    margin-bottom: 22px;
+}
+.label {
+    font-size: xx-small;
+    text-align: center;
+}
+.subtitle{
+    margin-top: 22px;
+}
+.guidelinestopic {
+    font-size: medium;
+    color: indianred;
+    text-align: center;
+    font-weight: bold;
+}
+.guidelines {
+    font-size: medium;
+    text-align: center;
+    margin: 26px;
+}
+.priority {
+    font-size: medium;
+    color: indianred;
+    text-align: center;
+    font-weight: bold;
+}

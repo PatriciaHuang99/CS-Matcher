@@ -1,0 +1,46 @@
+h2 {
+  margin-bottom: 16px;
+  text-align: center;
+}
+h5 {
+  text-align: center;
+}
+body {
+  background-color: rgba(249, 242, 242, 0.944);
+  /* background-color: rgba(249, 242, 242, 0.944);  */ /*logo color*/
+}
+.navbar {
+  background-color: rgba(249, 242, 242, 0.944);
+}
+.person {
+  text-align: center;
+}
+.button {
+  margin-left: auto; /*align right*/
+  display: flex;
+ 
+}
+.editbutton {
+  margin: auto; /*align right*/
+  display: flex;
+ 
+}
+.small {
+  font-size: small;
+}
+
+.hint {
+  text-align: center;
+  font-size: smaller;
+}
+
+.alert {
+    color: darkred;
+    font-size: small;
+}
+/* *{ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif} */
+/* *{font-family:'Georgia', 'serif'} */
+* {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}

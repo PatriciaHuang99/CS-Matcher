@@ -1,0 +1,18 @@
+.mypartner_content {
+  font-size: medium;
+  color: rgba(77, 77, 79, 0.814);
+}
+.mypartner_info {
+  font-size: larger;
+  color: rgba(33, 33, 34, 0.923);
+  text-align: center;
+}
+.msg {
+    font-size: large;
+    color: indianred;
+}
+.caution{
+  margin: 26px;
+  font-size: x-small;
+  color: navy;
+}

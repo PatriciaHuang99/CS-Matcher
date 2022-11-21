@@ -1,0 +1,33 @@
+.myprofile{
+    padding: 24px;
+    /* align-items: center; */ 
+}
+.myprofile_content{
+    font-size: medium;
+    color:rgba(77, 77, 79, 0.814);
+    
+}
+.myprofile_info{
+    font-size:larger;
+    color:rgba(33, 33, 34, 0.923);
+    text-align: center;
+}
+.intro{
+    font-size:medium;
+    color:rgba(77, 77, 79, 0.814);
+}
+.lessthan50{
+    font-size: small;
+
+}
+
+.texttwo {
+    font-size: large;
+    font-weight: bold;
+    color: indianred;
+}
+
+.label {
+    font-weight: bold;
+    font-size: small;
+}
