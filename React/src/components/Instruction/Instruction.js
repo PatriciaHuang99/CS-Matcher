@@ -1,5 +1,6 @@
 import Card from "react-bootstrap/Card";
 
+// Instruction Page
 function Instruction() {
   return (
     <div>
