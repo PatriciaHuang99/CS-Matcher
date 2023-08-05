@@ -2,6 +2,12 @@
 
 CS Matcher is a web application designed to help students develop their social networks by connecting them with like-minded classmates. It utilises a combination of React, Django, and SQLite Database, along with the Stable Roommates Matching Algorithm, to facilitate efficient and effective matching between students.
 
+## ![Alt screenshot](images/LoginPage.png "Optional Title")
+
+## ![Alt screenshot](images/MyMatchPage.png "Optional Title")
+
+## ![Alt screenshot](images/MyPreferencePage.png "Optional Title")
+
 ---
 
 ## Features
