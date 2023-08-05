@@ -20,7 +20,7 @@ def GetData():
     #db_path = '/Users/weiju/wxh184/cschat-django/db.sqlite3'
 
     # Relative db URL
-    path = '../../../cschat-django/db.sqlite3'
+    path = '../../../db.sqlite3'
     scriptdir = os.path.dirname(__file__)
     db_path = os.path.join(scriptdir, path)
 
