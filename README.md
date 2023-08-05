@@ -1,6 +1,6 @@
-# CS Matcher (Classmate Social Web Application)
+# CS Matcher (Classmate Social Web Application):blush:
 
-CS Matcher is a web application designed to help students develop their social networks by connecting them with like-minded classmates. It utilises a combination of React, Django, and SQLite Database, along with the Stable Roommates Matching Algorithm, to facilitate efficient and effective matching between students.
+CS Matcher is a web application designed to help students develop their social networks by connecting them with like-minded classmates. It utilises a combination of React, Django, and SQLite Database, along with the Stable Roommates Matching Algorithm, to facilitate efficient and effective matching between students.:fire::fire::fire:
 
 ## ![Alt screenshot](images/LoginPage.png "Optional Title")
 
@@ -101,6 +101,6 @@ Follow these steps to get the CS-Matcher running:
 
 10. Now, you can access the CS-Matcher at [http://localhost:3000](http://localhost:3000).
 
-11. Now you can start to use the CS-Matcher
+11. Now you can start to use the CS-Matcher :blush:
 
 ---
