@@ -86,8 +86,15 @@ Follow these steps to get the CS-Matcher running:
 
    ```
 
-9. Now, you can access the CS-Matcher at [http://localhost:3000](http://localhost:3000).
+9. Run the React frontend:
 
-10. Now you can start to use the CS-Matcher
+   ```shell
+   npm start
+
+   ```
+
+10. Now, you can access the CS-Matcher at [http://localhost:3000](http://localhost:3000).
+
+11. Now you can start to use the CS-Matcher
 
 ---
