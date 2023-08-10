@@ -10,6 +10,7 @@ dist/
 docs/_build/
 docs/locale/
 node_modules/
+React/node_modules/
 tests/coverage_html/
 tests/.coverage
 build/
