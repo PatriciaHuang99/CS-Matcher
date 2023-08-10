@@ -54,6 +54,7 @@ def Calculation(usersdata, usersweight):
                     break
 
             for p in preferences:
+                print(p)
                 # get True or False # preference = interest key
                 is_same = (userA[p] == userB[p])
                 # preference for userA # weight dictionary, weights[p] get 1 or 2 or 3

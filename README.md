@@ -101,6 +101,16 @@ Follow these steps to get the CS-Matcher running:
 
 10. Now, you can access the CS-Matcher at [http://localhost:3000](http://localhost:3000).
 
-11. Now you can start to use the CS-Matcher :blush:
+11. Now you can start to use the CS-Matcher :blush:.
+12. Execute the match function:
+
+- Navigate to the root directory, CS-Matcher:
+
+```shell
+   python3 django/Stable-Roommates-Matching/src/main.py
+
+```
+
+13. Now, you can see your match on My Match Page.
 
 ---

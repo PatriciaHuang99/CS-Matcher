@@ -18,7 +18,8 @@ def GetData():
 
     # Absolute db URL
     #db_path = '/Users/weiju/wxh184/cschat-django/db.sqlite3'
-
+    #path = '/Users/weiju/Documents/Birmingham CS/CS_project/project/CS-Matcher/django/db.sqlite3'
+    
     # Relative db URL
     path = '../../../db.sqlite3'
     scriptdir = os.path.dirname(__file__)
@@ -97,7 +98,7 @@ Store matching result back to SQLite
 def StoreData(preference):
     # preference = {user1: user2, user2: user1, user3: user4, user4: user3}
     print("1")
-    path = '../../../cschat-django/db.sqlite3'
+    path = '../../../db.sqlite3'
     print("2")
     scriptdir = os.path.dirname(__file__)
     print("3")
